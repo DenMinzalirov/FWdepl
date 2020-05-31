@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3f07b9a7e9f30645d9365c6be73c616",
+    "revision": "2193f1bc74c90cb4258575c967347e4f",
     "url": "/FWdepl/index.html"
   },
   {
-    "revision": "983a3b402aea1d5d1347",
-    "url": "/FWdepl/static/css/main.52c9507a.chunk.css"
+    "revision": "6ef206306c6d888743a4",
+    "url": "/FWdepl/static/css/main.8f9e666a.chunk.css"
   },
   {
     "revision": "f900201e38b95b1a59c8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FWdepl/static/js/2.62ded9ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "983a3b402aea1d5d1347",
+    "revision": "6ef206306c6d888743a4",
     "url": "/FWdepl/static/js/main.2a4c6a2d.chunk.js"
   },
   {
